@@ -1,0 +1,5 @@
+{
+  "name": "FinTrack - Personal Finance Manager",
+  "description": "Comprehensive personal finance management with EMI, Loan, Budget, and Portfolio tracking.",
+  "requestFramePermissions": ["geolocation"]
+}
